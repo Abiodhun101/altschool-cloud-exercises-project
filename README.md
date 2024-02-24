@@ -1,2 +1,10 @@
-# altschool-cloud-exercises-project
-Research online for 10 more linux commands aside the ones already mentioned in this module. Submit using your altschool-cloud-exercises project, explaining what each command is used for with examples of how to use each and example screenshots of using each of them.
+![Screenshot 2024-02-24 051803](https://github.com/Abiodhun101/altschool-cloud-exercises-project/assets/145686195/00d34820-ea13-4b82-8257-99ecc0ea5f16)
+![Screenshot 2024-02-24 050546](https://github.com/Abiodhun101/altschool-cloud-exercises-project/assets/145686195/05b92154-aeed-4422-8074-98fe10337642)
+![Screenshot 2024-02-24 044021](https://github.com/Abiodhun101/altschool-cloud-exercises-project/assets/145686195/f5d2af15-83c2-42cd-9ccf-97b44bcb5055)
+![Screenshot 2024-02-24 042141](https://github.com/Abiodhun101/altschool-cloud-exercises-project/assets/145686195/da0e2872-0333-4625-921f-157cccd4c0a9)
+![Screenshot 2024-02-24 041907](https://github.com/Abiodhun101/altschool-cloud-exercises-project/assets/145686195/aa05ec54-372a-4079-a160-9a4b3fd66e15)
+![Screenshot 2024-02-24 041028](https://github.com/Abiodhun101/altschool-cloud-exercises-project/assets/145686195/d7bd6d60-837a-41af-bec7-86a93542a566)
+![Screenshot 2024-02-24 031255](https://github.com/Abiodhun101/altschool-cloud-exercises-project/assets/145686195/4fae34ec-6995-413e-be5f-6bc81a3a9b8f)
+![Screenshot 2024-02-23 041602](https://github.com/Abiodhun101/altschool-cloud-exercises-project/assets/145686195/0c6bf670-7b07-4f1a-9e07-e398121d2285)
+![Screenshot 2024-02-22 120844](https://github.com/Abiodhun101/altschool-cloud-exercises-project/assets/145686195/00a6b98e-fb31-4f11-a8e2-8be7fcd3cd14)
+![Screenshot 2024-02-22 101748](https://github.com/Abiodhun101/altschool-cloud-exercises-project/assets/145686195/eb5b48d7-e7ba-43fd-87ab-0afec95e2712)
